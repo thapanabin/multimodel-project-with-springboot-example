@@ -11,6 +11,15 @@
 
     <artifactId>repository</artifactId>
     <packaging>jar</packaging>
+    <dependencies>
+
+        <dependency>
+            <groupId>com.nabin</groupId>
+            <artifactId>domain</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 
 
